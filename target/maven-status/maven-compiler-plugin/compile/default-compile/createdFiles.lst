@@ -1,2 +1,7 @@
+com/servlets/SearchServlet.class
 com/msrapunzel/jakartaeeapp/JakartaRestConfiguration.class
+com/servlets/HandyServlet.class
+com/servlets/SessionServlet.class
+com/servlets/Sessions.class
+com/servlets/DemoServlet.class
 com/msrapunzel/jakartaeeapp/resources/JakartaEE10Resource.class
