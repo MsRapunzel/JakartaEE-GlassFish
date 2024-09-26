@@ -1,9 +1,10 @@
 com/servlets/SearchServlet.class
-com/msrapunzel/jakartaeeapp/JakartaRestConfiguration.class
+com/msrapunzel/jakartaee/web/app/resources/JakartaEE10Resource.class
+com/msrapunzel/jakartaee/web/app/JakartaRestConfiguration.class
+com/beans/ValueBean.class
 com/servlets/HandyServlet.class
 com/servlets/SessionServlet.class
-com/beans/ValueBean.class
 com/servlets/Sessions.class
 com/servlets/DemoServlet.class
 com/beans/DateBean.class
-com/msrapunzel/jakartaeeapp/resources/JakartaEE10Resource.class
+com/beans/HelloBean.class
