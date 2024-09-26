@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Lab Work 2 – Servlets</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    </head>
+    <body>
+        <h1>Lab Work 2 – Servlets</h1>
+        <h2>Search Servlet</h2>
+        <form method="get" action="search">
+            <p>Search: <input type="text" name="searchKey"></p>
+            <input type="submit" value="search"><br>
+        </form>
+
+        <h2>Session Servlet</h2>
+        <form action="session">
+            <input type="text" placeholder="Name" name="name"><br><br>
+            <input type="text" placeholder="City" name="city"><br><br>
+            <input type="submit" value="submit"><br>
+        </form>
+
+        <h2><a href="/JakartaEEApp/HandyServlet">Handy Servlet</a></h2>
+        <h2>Demo Servlet</h2>
+
+        <form method="get" action="DemoServlet">
+            <button name="action" value="random">Get Random Number</button>
+            <button name="action" value="time">Get Current Time</button>
+        </form>
+</html>
